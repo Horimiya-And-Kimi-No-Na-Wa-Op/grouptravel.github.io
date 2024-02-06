@@ -31,10 +31,8 @@ class Header extends React.Component {
           </div>    	 
         </div>
         <div className={menu_class}>
-          <a href="#">Your travels</a>
-          <a href="#">See more destinations</a>
-          <a href="#">Popular travels</a>
-          <a href="#">About us</a>
+          <a href="../../countdown.html">Countdown</a>
+          <a href="../../index.html">About us</a>
         </div>
       </div>
     )
