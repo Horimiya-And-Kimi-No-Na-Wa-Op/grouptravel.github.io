@@ -9049,22 +9049,12 @@
 	          { className: menu_class },
 	          React.createElement(
 	            "a",
-	            { href: "#" },
-	            "Your travels"
+	            { href: "/countdown.html" },
+	            "Countdown"
 	          ),
 	          React.createElement(
 	            "a",
-	            { href: "#" },
-	            "See more destinations"
-	          ),
-	          React.createElement(
-	            "a",
-	            { href: "#" },
-	            "Popular travels"
-	          ),
-	          React.createElement(
-	            "a",
-	            { href: "#" },
+	            { href: "/aboutus.html" },
 	            "About us"
 	          )
 	        )
