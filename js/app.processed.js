@@ -9049,12 +9049,12 @@
 	          { className: menu_class },
 	          React.createElement(
 	            "a",
-	            { href: "/countdown.html" },
+	            { href: "https://horimiya-and-kimi-no-na-wa-op.github.io/grouptravel.github.io/countdown.html" },
 	            "Countdown"
 	          ),
 	          React.createElement(
 	            "a",
-	            { href: "/aboutus.html" },
+	            { href: "https://horimiya-and-kimi-no-na-wa-op.github.io/grouptravel.github.io/aboutus.html" },
 	            "About us"
 	          )
 	        )
